@@ -1,0 +1,4 @@
+com\test\spark\SparkMain.class
+com\test\spark\SpringAppStarter.class
+com\test\spark\demo\RddDemo.class
+com\test\spark\configuration\Config.class
